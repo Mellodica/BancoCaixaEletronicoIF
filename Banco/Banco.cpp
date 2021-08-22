@@ -79,5 +79,8 @@ int main()
 
     printf("\n\n\n");
 
+
+    system("pause");
+
 }
 
